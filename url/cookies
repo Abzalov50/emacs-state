@@ -1,0 +1,26 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '(("linkinghub.elsevier.com"
+  [url-cookie "Max-Age" "2147483647" "21-Apr-2086 10:26:55.00 GMT" "/" "linkinghub.elsevier.com" nil]
+  [url-cookie "visitorId" "E0ORlEXXibiyLsuMHPas" "21-Apr-2086 10:26:55.00 GMT" "/" "linkinghub.elsevier.com" nil])
+ (".pubs.acs.org"
+  [url-cookie "MACHINE_LAST_SEEN" "2018-04-03T03%3A07%3A01.127-04%3A00" "28-Jan-2019 07:07:01.00 GMT" "/" ".pubs.acs.org" nil]
+  [url-cookie "MAID" "jhD8EuKOgeVrD5DJ1ecJUA==" "28-Jan-2019 07:07:01.00 GMT" "/" ".pubs.acs.org" nil])
+ ("textit.in"
+  [url-cookie "csrftoken" "7oeIbbCAz2XWDRigDWjelvSnN5csVhrBYLvl8CKa6TaFJXv2GVpiuD0ubR4vshYm" "05-Sep-2019 12:17:03.00 GMT" "/" "textit.in" nil]
+  [url-cookie "Max-Age" "31449600" "05-Sep-2019 12:17:03.00 GMT" "/" "textit.in" nil])
+ ("pubs.acs.org"
+  [url-cookie "MACHINE_LAST_SEEN" "2018-04-03T03%3A07%3A01.127-04%3A00" "28-Jan-2019 07:07:01.00 GMT" "/" "pubs.acs.org" nil]
+  [url-cookie "MAID" "jhD8EuKOgeVrD5DJ1ecJUA==" "28-Jan-2019 07:07:01.00 GMT" "/" "pubs.acs.org" nil]
+  [url-cookie "ACSPubs" "3131855_49344_1522739220" "29-Mar-2038 07:07:00.00 GMT" "/doi/10.1021/" "pubs.acs.org" nil]
+  [url-cookie "I2KBRCK" "1" "03-Apr-2019 07:07:00.00 GMT" "/" "pubs.acs.org" nil]))
+)
+(setq url-cookie-secure-storage
+ 'nil)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
